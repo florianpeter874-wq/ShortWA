@@ -42,8 +42,6 @@ int main() {
         
         // Your game logic / Direct3D 11 rendering goes here
     }
-
-    Shortwa_CloseWindow(&win);
     return 0;
 }
 ```
