@@ -1,4 +1,4 @@
-# Shortwa (ShortWinAPI) 🚀
+# ShortWA (ShortWinAPI) 🚀
 
 A lightweight, high-performance, and completely **portable single-header ecosystem** written in pure C to escape the complexity of Microsoft WinAPI and Direct3D 11.
 
@@ -28,6 +28,7 @@ Tired of writing half a million lines of boilerplate code just to open a native 
 Because Shortwa is a **header-only library**, using it is incredibly simple. Define the implementation macro in *exactly one* C file before including the header.
 
 ### Quick Example: Opening a Windows Window
+### Use it, not WinAPI, is shorter than
 
 ```c
 #include "shortwalib.h"
