@@ -30,7 +30,6 @@ Because Shortwa is a **header-only library**, using it is incredibly simple. Def
 ### Quick Example: Opening a Windows Window
 
 ```c
-#define SHORTWA_IMPLEMENTATION
 #include "shortwalib.h"
 
 int main() {
